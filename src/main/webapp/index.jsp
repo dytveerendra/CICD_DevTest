@@ -12,7 +12,7 @@
 	var password=document.myform.txtPassword.value;  
 	  
 	if (name=="user02" || password=="TM1234"){  
-	  alert("Login Successfully");
+	  //alert("Login Successfully");
 	  window.location.href = "home.jsp";
 
 	  return false;  
