@@ -4,7 +4,7 @@
 	<br> UserName:
 	<input type="text" name="username" />
 	<br> Password:
-	<input type="password" name="pwd" />
+	<input type="password" name="pwd1" />
 	</br>
 	<input type="submit" />
 </body>
