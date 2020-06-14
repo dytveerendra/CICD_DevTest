@@ -33,7 +33,7 @@
 		<br> Password:
 		<input type="password" name="txtPassword" autocomplete=true/>
 		</br>		
-		<input type="submit" value="Login">  
+		<input type="submit" name="btnLogin" value="Login">  
 </form>
 	
 
