@@ -11,7 +11,7 @@
 	var name=document.myform.txtUsername.value;  
 	var password=document.myform.txtPassword.value;  
 	  
-	if (name=="user01" || password=="TM1234"){  
+	if (name=="user01" || password=="TM12345"){  
 	  //alert("Login Successfully");
 	  window.location.href = "home.jsp";
 
