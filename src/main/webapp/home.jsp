@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>DevelopYou Home</title>
+<title>DevelopYou</title>
 </head>
 <body>
-	<h1> Welcome to DevelopYou Technologies</h1>
+	<h1>Welcome</h1>
 </body>
 </html>

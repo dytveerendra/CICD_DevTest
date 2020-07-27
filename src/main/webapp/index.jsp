@@ -7,7 +7,7 @@
 <title>DevelopYou</title>
 
 	<script>  
-	function validateform(){  
+	function validateform() {  
 	var name=document.myform.txtUsername.value;  
 	var password=document.myform.txtPassword.value;  
 	  
@@ -26,15 +26,15 @@
 </head>
 <body>
 
-	<h2>Login page</h2>
+	<h2>My Login page</h2>
 	<form name="myform" method="post"  onsubmit="return validateform()" > 	
 		<br> UserName:
-		<input type="text" name="txtUsername" autocomplete=true/>
+		<input type="text" id="userID" name="txtUsername" autocomplete=true/>
 		<br> Password:
 		<input type="password" name="txtPassword" autocomplete=true/>
 		</br>		
 		<input type="submit" name="btnLogin" value="Login">  
-</form>
+	</form>
 	
 
 </body>
